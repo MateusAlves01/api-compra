@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/compras?useTimezone=true&serverTimezone=UTC&createDatabaseIfNotExist=true
+    username: root
+    password: root
+
